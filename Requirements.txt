@@ -1,7 +1,17 @@
 The following modules need to be installed. Install them using the command line by this command ("pip install [module_name]")
+For the interface part:
 - mysql.connector
 - os
 - time
 - getpass
 - re
 - sys
+
+For the crawling part:
+- selenium
+- csv
+- webdriver
+- the appropriate webdriver_manager of your browser ex. "EdgeChromiumDriverManager"
+- BeautifulSoup
+- requests
+- etree
