@@ -19,5 +19,6 @@ Every script stores the collect information in a csv file to be loaded later on 
 ## User Guide:
 - You are recommended to run the scripts from the command line.
 - In case of running "connector.py", you can specify whether the connection is remote or local by passing an argument in the command line. Either "local" or "remote"
-- Ex. type in the terminal "python connector.py remote" That will connect to the remote server
-- All server connection information are supposed to be defined in the script. If you want it to be specified from the user, few changes will be needed in the script. 
+- Ex. type in the terminal "python connector.py remote" That will connect to the remote server.
+- Modify the paramerters of the corresponsing connection to suit your own connection.
+- All server connection information are supposed to be defined in the script. If you want it to be specified from the user, few changes will be needed in the script.

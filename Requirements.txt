@@ -1,0 +1,7 @@
+The following modules need to be installed 
+ mysql.connector
+os
+time
+getpass
+re
+sys
