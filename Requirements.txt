@@ -1,7 +1,7 @@
-The following modules need to be installed 
- mysql.connector
-os
-time
-getpass
-re
-sys
+The following modules need to be installed. Install them using the command line by this command ("pip install [module_name]")
+- mysql.connector
+- os
+- time
+- getpass
+- re
+- sys
