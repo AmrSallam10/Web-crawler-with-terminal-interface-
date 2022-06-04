@@ -22,3 +22,6 @@ Every script stores the collect information in a csv file to be loaded later on 
 - Ex. type in the terminal "python connector.py remote" That will connect to the remote server.
 - Modify the paramerters of the corresponsing connection to suit your own connection.
 - All server connection information are supposed to be defined in the script. If you want it to be specified from the user, few changes will be needed in the script.
+
+## Requirements:
+Use command "pip install -r requirements.txt" to install all requirements at once. 
